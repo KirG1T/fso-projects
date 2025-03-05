@@ -7,7 +7,7 @@
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:ui": "rm -rf dist && cd ../../fso-phonebook-frontend && npm run build && cp -r dist ../fso-phonebook-backend/express-version",
-    "deploy:full": "npm run build:ui && git add -A && git commit -m uibuild && git push"
+    "deploy:full": "npm run build:ui && git add -A && git commit -m uibuild && git pull origin main --rebase && git push"
   },
   "author": "",
   "license": "ISC",
