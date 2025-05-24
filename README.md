@@ -2,6 +2,10 @@
 
 ## Branches
 
+### Anecdotes
+- query-anecdotes
+- redux-anecdotes 
+
 ### Bloglist
 - bloglist-e2e  
 - bloglist-backend  
