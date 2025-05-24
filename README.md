@@ -1,8 +1,11 @@
 # fso-projects
 
-Branches:
-- bloglist-e2e
-- bloglist-backend
-- bloglist-frontend
+## Branches
 
+### Bloglist
+- bloglist-e2e  
+- bloglist-backend  
+- bloglist-frontend  
+
+### Phonebook
 - phonebook-backend
