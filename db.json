@@ -1,0 +1,19 @@
+{
+  "anecdotes": [
+    {
+      "content": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "id": "36975",
+      "votes": 0
+    },
+    {
+      "content": "Premature optimization is the root of all evil.",
+      "id": "25170",
+      "votes": 0
+    },
+    {
+      "content": "new amazing anecdote",
+      "votes": 0,
+      "id": "mKd3fYj"
+    }
+  ]
+}
